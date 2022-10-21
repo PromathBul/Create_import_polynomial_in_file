@@ -1,4 +1,7 @@
 from random import randint
+from Methods import enter
+
+max = enter('fkjg')
 
 def Create_list_natural_numbers (length, max):
     nat_nums = []
